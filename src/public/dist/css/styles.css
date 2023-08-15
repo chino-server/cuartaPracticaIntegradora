@@ -1,0 +1,9 @@
+.gradient-background {
+    background: url('../img/cart.png') no-repeat center center, linear-gradient(180deg, #1e90ff 0%, #2c3e50 100%);
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
